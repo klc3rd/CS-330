@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\klc3r\source\repos\finalproject\finalproject\source.cpp(68): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\klc3r\source\repos\finalproject\finalproject\source.cpp(113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\klc3r\source\repos\finalproject\finalproject\source.cpp(128): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\klc3r\source\repos\finalproject\finalproject\source.cpp(253): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\klc3r\source\repos\finalproject\finalproject\source.cpp(254): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\klc3r\source\repos\finalproject\finalproject\source.cpp(258): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\klc3r\source\repos\finalproject\finalproject\source.cpp(259): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\klc3r\source\repos\finalproject\finalproject\source.cpp(260): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\klc3r\source\repos\finalproject\finalproject\source.cpp(261): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FinalProject.vcxproj -> C:\Users\klc3r\source\repos\FinalProject\Debug\FinalProject.exe
